@@ -1,0 +1,61 @@
+
+#j{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+#jtd,#jth{
+    border: 1px solid #ddd;
+    padding: 8px
+}
+#j tr:nth-child(even){background-color: #f2f2f2;}
+#j tr:hover{background-color: #ddd;}
+#j th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04aa6d;
+    color: white;
+}
+     a:link{
+ 
+    box-sizing: border-box;
+   
+    background-color: #ecd453;
+    text-decoration: none;
+    border-radius: 15px;
+   padding: 10px 20px;
+   
+   }
+   input[type=id],select{
+           padding: 10px 200px;
+           border-radius: 10px;
+           box-sizing: border-box;
+           width: 1000px;
+           margin: 30px 0;
+           background-color: white;
+           border: 3px solid #ffdc73
+           
+       }
+       input[type="password"],select{
+           padding: 10px 200px;
+           border-radius: 10px;
+           box-sizing: border-box;
+           width: 1000px;
+           margin: 10px 0;
+           background-color: white;
+           border: 3px solid #ffdc73}
+           #j th{
+       padding-top: 150px;
+       padding-bottom: 15px;
+       text-align: left;
+       background-color: white;
+       color: aqua;
+       width: 100px;
+     
+   }
+   div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 10px;
+  }

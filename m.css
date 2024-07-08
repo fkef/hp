@@ -1,0 +1,25 @@
+
+
+html{background-color: black;}
+
+hr{color:#ecd453}
+
+h1{color:#ecd453
+;text-align: center;}
+img{ width: 500px;
+} P{float:right;}
+h2{ color: white;}
+div { align-content: center;}
+p{color: white;
+float: right;}
+
+a:link{
+ 
+    box-sizing: border-box;
+  
+    background-color: #ecd453;
+    text-decoration: none;
+    border-radius: 15px;
+   padding: 10px 20px;
+
+}
